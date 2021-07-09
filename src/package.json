@@ -18,7 +18,7 @@
     "passport": "^0.3.2",
     "passport-jwt": "^2.2.1",
     "promise-queue": "^2.2.3",
-    "query-to-mongo": "^0.6.2",
+    "query-to-mongo": "^0.10.1",
     "queue": "^4.4.0",
     "redis-jsonify": "^1.0.1",
     "sha1": "^1.1.1",
