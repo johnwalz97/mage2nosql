@@ -1,4 +1,4 @@
-FROM mongo:3.4.3
+FROM mongo:3.6.20
 
 ADD . /tmp/mongo
 # Install selected extensions and other stuff
